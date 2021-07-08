@@ -1,0 +1,33 @@
+{
+  "name": "teetagget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baovit72/teepublictagget.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baovit72/teepublictagget/issues"
+  },
+  "homepage": "https://github.com/baovit72/teepublictagget#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "dom-parser": "^0.1.6",
+    "objects-to-csv": "^1.3.6",
+    "puppeteer": "^9.1.1",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-adblocker": "^2.11.11",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "word-definition": "^2.1.6",
+    "wordnet-db": "^3.1.14",
+    "wordpos": "^2.1.0"
+  }
+}
